@@ -1,9 +1,11 @@
 # Playstation-clubs-management
-C# &amp; ESP32 (Arduino)  Playstation clubs management
 
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="https://github.com/Mohammed-Mojaly/Laravel_qr_generator/blob/main/screenshot/1.png" name="image-name">
-  <img src="https://github.com/Mohammed-Mojaly/Laravel_qr_generator/blob/main/screenshot/1.png" name="image-name">
-  <img src="image-url" name="image-name">
-</details>
+
+## About Project
+
+Building a complete content management system from scratch using the Laravel Framework, which is a WordPress-like system that will have multiple users and powers for each user, where users can register in the system and have the ability to write articles and control them and control comments on their articles.
+I created API for all operations such as creation,edit,update,delete .......
+
+
+<p align="center"><img src="https://github.com/Mohammed-Mojaly/Laravel-CMS-blog/blob/master/screenshots/1.png"></p>
+<p align="center"><img src="https://github.com/Mohammed-Mojaly/Laravel-CMS-blog/blob/master/screenshots/2.png"></p>
