@@ -4,7 +4,7 @@
 ## About Project
 
 ## Playstation clubs management (Desktop App && API for Mobile)
-# Create by C# And Arduino (ESP32 & IR Sensor) And Laravel For API
+# Created by C# And Arduino (ESP32 & IR Sensor) And Laravel For API
 - Control the Tv by the computer via the Arduino (controller) included with the program
 - Control Tv by wireless & bluetooth
 - Integrated accounting system
