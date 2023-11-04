@@ -1,9 +1,9 @@
-# Playstation-clubs-management
+# Video-games-clubs-management-system 
 
 
 ## About Project
 
-## Playstation clubs management (Desktop App && API for Mobile)
+## Video games clubs’ management system (Desktop App - Mobile App - Web App).
 # Created by C# And Arduino (ESP32 & IR Sensor) And Laravel For API
 - Control the Tv by the computer via the Arduino (controller) included with the program
 - Control Tv by wireless & bluetooth
